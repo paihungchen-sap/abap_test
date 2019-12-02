@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_FUGR" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <AREAT>Function Group</AREAT>
+   <INCLUDES>
+    <SOBJ_NAME>LZ_I509301_FGTOP</SOBJ_NAME>
+    <SOBJ_NAME>SAPLZ_I509301_FG</SOBJ_NAME>
+   </INCLUDES>
+   <FUNCTIONS>
+    <item>
+     <FUNCNAME>Z_I509301_HELPER</FUNCNAME>
+     <SHORT_TEXT>Helper function</SHORT_TEXT>
+    </item>
+   </FUNCTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
