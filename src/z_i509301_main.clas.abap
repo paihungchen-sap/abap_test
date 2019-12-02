@@ -20,6 +20,7 @@ class z_i509301_main implementation.
 
     result = user_1->do_stuff( exporting a = 5 importing b = x changing c = y ).
 
+    out->write( 'Hello, world!' ).
     out->write( result ).
     out->write( x ).
     out->write( y ).
